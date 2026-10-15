@@ -1,6 +1,3 @@
-# Simulation-BlackHole-
-Real-time Schwarzschild black hole simulation: GPU ray tracing of light geodesics, gravitational lensing, Doppler-beamed accretion disk. Single-file C++ / OpenGL 3.3, no dependencies.
-
 # Black Hole — релятивистская симуляция чёрной дыры
 
 Интерактивная 3D-симуляция чёрной дыры Шварцшильда. Каждый пиксель — луч света,
